@@ -19,6 +19,6 @@ Please refer to the complete analysis over [here](https://github.com/shayanafzal
 ![](https://github.com/shayanafzal/Cryptocurrencies/blob/c9fd312c2f9c5917de7e6897f748deb072843c6c/Resources/3%20New%20Data%20Frame.png)
 
 ### Deliverable 4
-![](https://github.com/shayanafzal/Cryptocurrencies/blob/c9fd312c2f9c5917de7e6897f748deb072843c6c/Resources/4%203d%20scatter%20plot.png)
+![]
 ![](https://github.com/shayanafzal/Cryptocurrencies/blob/c9fd312c2f9c5917de7e6897f748deb072843c6c/Resources/4%20new%20data%20fram.png)
 ![](https://github.com/shayanafzal/Cryptocurrencies/blob/c9fd312c2f9c5917de7e6897f748deb072843c6c/Resources/4%20scatter%20plot.png)
