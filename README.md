@@ -4,7 +4,7 @@
 
 ## Deliverables
 
-Coding
+### Analysis
 Please refer to the complete analysis over [here](https://github.com/shayanafzal/Cryptocurrencies/blob/4739b6d6b09fa1a1bc3250bbbdaba0c8d4651b03/crypto_clustering.ipynb).
 
 ### Deliverable 1
