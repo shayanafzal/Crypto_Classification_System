@@ -4,6 +4,9 @@
 
 ## Deliverables
 
+Coding
+Please refer to the complete analysis over [here](https://github.com/shayanafzal/Cryptocurrencies/blob/4739b6d6b09fa1a1bc3250bbbdaba0c8d4651b03/crypto_clustering.ipynb).
+
 ### Deliverable 1
 ![](https://github.com/shayanafzal/Cryptocurrencies/blob/f17bd3f55050e9e57a3ceb11e8a807fd7ffac84b/Resources/1%20Standardize%20the%20data%20with%20StradardScaler.png)
 ![](https://github.com/shayanafzal/Cryptocurrencies/blob/c9fd312c2f9c5917de7e6897f748deb072843c6c/Resources/1%20Variables%20for%20text%20freatures.png)
