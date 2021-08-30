@@ -1,6 +1,7 @@
 # Crypto Currencies
 
 ## Purpose 
+The purpose of this analysis was to create a report that includes what cryptocurrencies are on the market and how they could be grouped to create a classification system for this new investment. The data has been processed to fit the machine learning models. Unsupervised Learning and Clustering Algorithm has been used in this analysis. Data visualizations were created to share the findings with the board. 
 
 ## Deliverables
 
